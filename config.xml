@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns                  = "http://www.w3.org/ns/widgets"
+        xmlns:gap              = "http://phonegap.com/ns/1.0"
+        id                     = "com.mati.tecladovirtual"
+        versionCode            = "1"
+        version                = "1.0.0" >
+<name>Teclado Virtual</name>
+<description>Teclado distintos instrumentos musicales</description>
+<author href = "" email = "">
+Matiasss24
+</author>
+<preference name = "orientation" value = "Landscape" />
+<preference name = "Fullscreen" value = "true" />
+<icon src = "icon.png" />
+
+</widget>
